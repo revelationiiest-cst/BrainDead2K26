@@ -1,14 +1,16 @@
-# Brain Dead 🧠: Advanced Automated Radiology Report Generation
+# BrainDead 🧠 — The Ultimate Data Analysis & Machine Learning Challenge  
+**<img width="2880" height="1472" alt="Gemini_Generated_Image_tb1yh6tb1yh6tb1y" src="https://github.com/user-attachments/assets/7c0edd64-1293-4ed2-83a0-61db95e0ede8" />**
 
-![Event](https://img.shields.io/badge/Event-Revelation%205.0-blueviolet?style=for-the-badge)
-![Track](https://img.shields.io/badge/Track-Medical%20AI-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+#**Revelation 2K25 | Department of Computer Science and Technology, IIEST Shibpur**
+<img width="1920" height="520" alt="NB Banner" src="https://github.com/user-attachments/assets/81016c7b-92b2-4a4f-b769-89a567973996" />
 
-🚀 **Welcome to Brain Dead @ Revelation 5.0 (2026)!** Proudly organized by **The Academic Society of Computer Engineers (ASCE)**, Department of Computer Science and Technology, **IIEST Shibpur**.
+🚀 **Exciting News!** Revelation 2K26 is back, proudly presented by the Department of Computer Science and Technology, IIEST Shibpur.  
+This year, we are thrilled to collaborate with multiple leading product-based companies eager to recruit top talent from our major technical events.
 
-This year, we are tackling one of the most critical bottlenecks in modern healthcare: the disparity between the exploding volume of medical imaging data and the limited availability of radiologists. **Brain Dead** challenges you to build the next generation of **Interpretable Multimodal Intelligence**—an AI that doesn't just "see" an X-ray, but "reasons" like a doctor to write a professional diagnostic report.
+🎉 Don’t miss this opportunity to showcase your skills, stand out, and secure your future in the tech world!  
+**See you at Revelation 2K26!**  
 
----
+**#Revelation26 #TechFest #IIESTS #CareerOpportunities**
 
 ### 📞 Contact Us
 
