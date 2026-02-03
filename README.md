@@ -8,7 +8,7 @@ We present **two compelling problem statements** for this flagship competition.
 ✅ **Both problems are compulsory** — whether you solve one, both, or even a part, we encourage you to submit and showcase your work.
 
 On behalf of Team Revelation, we wish you all the best! 💻🔍  
-**#BrainDead #Revelation26 #DataAnalysis #MachineLearning**
+**#BrainDead #Revelation26 #BrainDead26 #DataAnalysis #MachineLearning**
 
 
 #**Revelation 2K25 | Department of Computer Science and Technology, IIEST Shibpur**
@@ -25,18 +25,32 @@ This year, we are thrilled to collaborate with multiple leading product-based co
 ### 📞 Contact Us
 
 📧 **Email**: [revelationiiest@gmail.com](mailto:revelationiiest@gmail.com)  
-📲 **Raise an Issue**: Use this repository for technical queries.
+📲 Join WhatsApp Group: **[Click here](https://chat.whatsapp.com/FiZG1P3RnmiEhphbiK8JYa)** 
 
-### 🔔 **Important Notes:**
-- **Dates:** February 6th - 8th, 2026.
-- **Submission Portal:** [Unstop](https://unstop.com/) (All registrations and final submissions must be made here).
-- **Evaluation:** Solutions are judged on **Clinical Efficiency (CE)** and **Semantic Structure**, not just text similarity.
-- **Strict Constraint:** Simple Encoder-Decoder models (image captioning) will be penalized. You must implement the **Cognitive Modules** described below.
+--
+## Submission Requirements
+For **Problem Statement 1 & 2**, prepare a concise report in **.pptx** or **.pdf** format.
+
+### Report Submission Rules
+- Append your **Problem Statement 2** report to your **Problem Statement 1** report.
+- Upload your **iPython notebook (.ipynb)** to GitHub.
+- Submit your **public GitHub repository link** via **UnStop**.
+
+### Important Notes
+- Both problem statements are compulsory.
+- You can submit whichever problem(s) you solve. Partial submissions will be evaluated based on your report and results.
+- For any unattempted problem, your score for that question will be **0**.
+- If you submit the report but **do not submit the notebook/code**, your score for that problem will be **0** *(Aryabhatta to be blamed! 🙃)*.
+
+
+
+
+
 
 ---
 
-# **Problem Statement: Cognitive Radiology Report Generation**
-#### <div align="right">🎯 Marks: 100</div>
+# **Problem Statement:2 Cognitive Radiology Report Generation**
+#### <div align="right">🎯 Marks: 60</div>
 
 #### 📌 The Challenge:
 In the high-pressure environment of a radiology reading room, "reader fatigue" leads to a 3-5% discrepancy rate in human-generated reports. Your task is to develop a **Deep Learning Framework** that acts as a "Second Reader"—an AI capable of automating the drafting of radiology reports.
@@ -116,7 +130,11 @@ To solve issues of "hallucination" and lack of interpretability, your submission
 3. **Hypothesis queries Image (again)**  Verification (Closed Loop).
 
 
-
+### 🔔 **Important Notes:**
+- **Dates:** February 6th - 8th, 2026.
+- **Submission Portal:** [Unstop](https://unstop.com/) (All registrations and final submissions must be made here).
+- **Evaluation:** Solutions are judged on **Clinical Efficiency (CE)** and **Semantic Structure**, not just text similarity.
+- **Strict Constraint:** Simple Encoder-Decoder models (image captioning) will be penalized. You must implement the **Cognitive Modules** described below.
 ---
 
 ### 📊 Performance Metrics
