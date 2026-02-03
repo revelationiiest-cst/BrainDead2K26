@@ -1,5 +1,15 @@
-# BrainDead 🧠 — The Ultimate Data Analysis & Machine Learning Challenge  
-**<img width="2880" height="1472" alt="Gemini_Generated_Image_tb1yh6tb1yh6tb1y" src="https://github.com/user-attachments/assets/7c0edd64-1293-4ed2-83a0-61db95e0ede8" />**
+## About BrainDead
+<img width="2880" height="1472" alt="Gemini_Generated_Image_tb1yh6tb1yh6tb1y" src="https://github.com/user-attachments/assets/4202815f-4c4a-485b-879b-ec9b9112bd03" />
+
+Get ready for an exciting challenge in **Data Analysis** and **Machine Learning** at Revelation 2K26 with **BrainDead**! 🚀
+
+We present **two compelling problem statements** for this flagship competition.
+
+✅ **Both problems are compulsory** — whether you solve one, both, or even a part, we encourage you to submit and showcase your work.
+
+On behalf of Team Revelation, we wish you all the best! 💻🔍  
+**#BrainDead #Revelation26 #DataAnalysis #MachineLearning**
+
 
 #**Revelation 2K25 | Department of Computer Science and Technology, IIEST Shibpur**
 <img width="1920" height="520" alt="NB Banner" src="https://github.com/user-attachments/assets/81016c7b-92b2-4a4f-b769-89a567973996" />
