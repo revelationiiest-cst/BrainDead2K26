@@ -16,7 +16,7 @@ On behalf of Team Revelation, we wish you all the best! 💻🔍
 <img width="1920" height="520" alt="NB Banner" src="https://github.com/user-attachments/assets/81016c7b-92b2-4a4f-b769-89a567973996" />
 
 🚀 **Exciting News!** Revelation 2K26 is back, proudly presented by the Department of Computer Science and Technology, IIEST Shibpur.  
-This year, we are thrilled to collaborate with multiple leading product-based companies eager to recruit top talent from our major technical events.
+
 
 🎉 Don’t miss this opportunity to showcase your skills, stand out, and secure your future in the tech world!  
 **See you at Revelation 2K26!**  
