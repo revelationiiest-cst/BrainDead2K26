@@ -1,5 +1,6 @@
 ## About BrainDead
-<img width="2880" height="1472" alt="Gemini_Generated_Image_tb1yh6tb1yh6tb1y" src="https://github.com/user-attachments/assets/4202815f-4c4a-485b-879b-ec9b9112bd03" />
+<img width="2880" height="1472" alt="Gemini_Generated_Image_3aaoid3aaoid3aao" src="https://github.com/user-attachments/assets/025f8eab-34c1-4a01-9f41-640751e75f13" />
+
 
 Get ready for an exciting challenge in **Data Analysis** and **Machine Learning** at Revelation 2K26 with **BrainDead**! 🚀
 
