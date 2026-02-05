@@ -27,7 +27,7 @@ On behalf of Team Revelation, we wish you all the best! 💻🔍
 
 📧 **Email**: [revelationiiest@gmail.com](mailto:revelationiiest@gmail.com)  
 📲 Join WhatsApp Group: **[Click here](https://chat.whatsapp.com/FiZG1P3RnmiEhphbiK8JYa)** 
-
+🌐 Website Link: **[Click here](https://revelation2k26.tech/)**
 --
 ## Submission Requirements
 For **Problem Statement 1 & 2**, prepare a concise report in **.pptx** or **.pdf** format.
