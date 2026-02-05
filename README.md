@@ -44,6 +44,106 @@ For **Problem Statement 1 & 2**, prepare a concise report in **.pptx** or **.pdf
 - If you submit the report but **do not submit the notebook/code**, your score for that problem will be **0** *(Aryabhatta to be blamed! 🙃)*.
 
 
+---
+# **Problem Statement:1 🎬 ReelSense: Explainable Movie Recommender System with Diversity Optimization**
+#### <div align="right">🎯 Marks: 40</div>
+
+
+## 📌 Problem Statement
+
+**ReelSense** is a movie recommendation system challenge that goes beyond just predicting user ratings. The project involves:
+
+1. Building personalized, explainable **Top-K movie recommendations** using hybrid approaches  
+2. Ensuring **diversity and coverage** to avoid popularity bias  
+3. Generating **natural language explanations** for each recommendation  
+4. Reporting metrics for **ranking, diversity, and novelty**
+
+
+
+## 📁 Dataset
+
+Dataset: [MovieLens Latest Small](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip)  
+Source: GroupLens Research  
+License: [MovieLens Terms of Use](https://grouplens.org/datasets/movielens/)  
+Size: 100,836 ratings by 610 users on 9,742 movies
+
+### Files Used:
+
+- `ratings.csv`: User ratings of movies (0.5 to 5.0)
+- `movies.csv`: Movie metadata (title, genres)
+- `tags.csv`: User-assigned free-form tags
+- `links.csv`: External IDs (IMDB, TMDb)
+
+
+
+## 🧹 Preprocessing
+
+- Time-based train-test split (Leave-last-N per user)
+- Cleaning tags and genres
+- Constructed user-item interaction matrix
+- Parsed timestamp to datetime
+- Standardized movie genre/tag features
+
+
+
+## 🔍 Exploratory Data Analysis (EDA)
+
+Key Visualizations:
+- Distribution of ratings
+- Genre popularity vs. rating trends
+- User activity histogram
+- Long-tail analysis
+- Trends in rating behavior over time
+
+
+
+## 🧠 Recommendation Models
+
+| Type             | Methodologies Used                     |
+|------------------|----------------------------------------|
+| Popularity-based | Top-N most-rated / highest-rated       |
+| Collaborative    | User-User CF, Item-Item CF             |
+| Matrix Factorization | SVD using Surprise library         |
+| Hybrid Model     | Genre+Tag content features + CF blend  |
+
+
+
+## ✨ Explainability Layer
+
+For each recommendation, generated explanations like:
+
+> "Because you liked *Inception* and *The Matrix*, which share the tags 'sci-fi' and 'mind-bending'"
+
+Explanation sources:
+- Tag similarity
+- Genre overlap
+- Collaborative user neighborhood
+
+
+
+## 🎯 Evaluation Metrics
+
+### A. Rating Prediction (for MF models)
+- RMSE / MAE
+
+### B. Top-K Ranking
+- Precision@K, Recall@K, NDCG@K (K=10)
+- MAP@K
+
+### C. Diversity & Novelty
+- Catalog Coverage
+- Intra-List Diversity
+- Popularity-Normalized Hits
+
+
+## 📦 Deliverables
+
+Participants must submit the following:
+
+- **Concise report** (figures + insights + references)  
+- **Cleaned dataset pipeline** + notebooks/scripts  
+- **EDA visuals** (clearly labeled)  
+- **Model training + evaluation code**
 
 
 
