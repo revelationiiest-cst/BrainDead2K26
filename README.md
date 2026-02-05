@@ -12,7 +12,7 @@ On behalf of Team Revelation, we wish you all the best! 💻🔍
 **#BrainDead #Revelation26 #BrainDead26 #DataAnalysis #MachineLearning**
 
 
-#**Revelation 2K25 | Department of Computer Science and Technology, IIEST Shibpur**
+#**Revelation 2K26 | Department of Computer Science and Technology, IIEST Shibpur**
 <img width="1920" height="520" alt="NB Banner" src="https://github.com/user-attachments/assets/81016c7b-92b2-4a4f-b769-89a567973996" />
 
 🚀 **Exciting News!** Revelation 2K26 is back, proudly presented by the Department of Computer Science and Technology, IIEST Shibpur.  
