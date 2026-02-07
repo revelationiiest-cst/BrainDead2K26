@@ -286,7 +286,7 @@ BrainDead-Solution/
 3. **Report:** A brief PDF (max 2 pages, IEEE format) explaining how you implemented the three mandatory modules.
 4. **Demo Video:** A 2-minute screencast showing your model generating a report from a raw X-ray.
 
-**3. Deadline:** February 8th, 2026, 10:10 AM IST.
+**3. Deadline:** February 8th, 2026, 11:59 PM IST.
 
 ---
 
